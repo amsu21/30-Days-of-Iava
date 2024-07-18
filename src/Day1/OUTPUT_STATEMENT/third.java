@@ -1,3 +1,5 @@
+package Day1.OUTPUT_STATEMENT;
+
 public class third {
     public static void main(String[] args) {
         System.out.printf("HELLO %s!%n", "WORLD");

@@ -1,3 +1,5 @@
+package Day1.OUTPUT_STATEMENT;
+
 public class first {
     public static void main(String[] args) {
         System.out.println("HELLO"); // FIRST STATEMENT

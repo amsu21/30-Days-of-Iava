@@ -1,3 +1,5 @@
+package Day1.task;
+
 import java.util.Scanner;
 
 public class arithmetic {
